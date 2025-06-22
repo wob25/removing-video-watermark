@@ -65,6 +65,7 @@ pip install Pillow
 
 **目标：** 利用免费的 GPU 资源，执行视频修复任务。
 
+![](https://gcore.jsdelivr.net/gh/wob-21/Cloud-storage@main/image/022840.png)
 ### 步骤一：打开并准备环境
 1.  点击本文档顶部的 **“Open In Colab”** 徽章，或通过[此链接](https://colab.research.google.com/github/wob25/removing-video-watermark/blob/main/removing_video_watermark.ipynb)直接打开笔记本。
 2.  进入后，务必设置运行时为 **GPU**：（菜单栏 → 代码执行程序 → 更改运行时类型 → 硬件加速器 → **GPU**）。
