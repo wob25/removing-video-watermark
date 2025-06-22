@@ -17,7 +17,7 @@ class CoordinatePickerApp(ctk.CTk):
         super().__init__()
 
         # --- 窗口基础设置 ---
-        self.title("视频坐标拾取工具 (布局优化版)")
+        self.title("视频坐标拾取工具")
         self.geometry("1200x700")
         # 让左侧的视频列 (column 0) 随窗口缩放
         self.grid_columnconfigure(0, weight=1) 
